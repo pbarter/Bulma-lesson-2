@@ -1,0 +1,78 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+div {
+    /* border:2px solid blue; */
+  }
+
+/* HERO SECTION */
+
+    .bannertext {
+        font-size:3em;
+        letter-spacing: 3px;
+        font-weight: 300;
+    }
+
+
+    #hero-button {
+        background-color:white;
+        padding: 24px 36px 24px 36px;
+        text-transform: uppercase;
+        font-weight: 900;
+        font-size:.75em;
+        letter-spacing: 2px;
+    }
+
+/* END HERO SECTION */
+
+
+/* WHO WE ARE */
+    
+    #who-we-are-col {
+        margin:4em 0;
+    }    
+
+    #who-we-are-header {
+       font-size:2em;
+       font-weight:400; 
+    }
+
+    #three-fingers {
+        margin-top:1em;
+    } 
+
+/* END WHO WE ARE */
+
+/* OUR BRANDS */
+    #brandsection {
+        background-color:#f6f6f6;
+    }
+
+    #brandsection h2 {
+        font-weight: 800;
+    }
+
+    #brandsection img {
+        width:100px;
+        margin-bottom:1em;
+    }
+/* END OUR BRANDS */
+
+/* KIND SECTION */
+    .we-section h1 {
+        font-size:2em;
+        margin-bottom:.2em;
+    }
+
+    .we-background {
+        background-color: #f6f6f6;
+    }
+
+/* END KIND SECTION */
+
+/* CALL TO ACTION SECTION */
+    .yellowbg {
+        background-color:#fffc00;
+    }
+/* END CALL TO ACTION SECTION */
